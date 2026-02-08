@@ -5,6 +5,7 @@ const Hero = () => {
 
         <img
           src="https://img.pikbest.com/png-images/20241022/stealth-masked-hacker-gaming-logo-for-gamers_10991543.png!bw700"
+          alt="Rajesh Sarkar Logo"
           width="120"
           className="rounded-circle mb-4 border border-warning"
         />
