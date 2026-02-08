@@ -6,8 +6,8 @@ A Full Stack Developer Portfolio built using the MERN Stack with Admin Dashboard
 
 ## 🌐 Live Demo
 
-🔗 Frontend: (Add Netlify / Vercel Link)  
-🔗 Backend API: (Add Render / Railway Link)
+🔗 Frontend: https://rajesh-portfolio-mern.netlify.app/  
+🔗 Backend API: https://rajesh-portfolio-mern.onrender.com
 
 ---
 
