@@ -1,0 +1,41 @@
+.skills-slider-container {
+  width: 100%;
+  overflow: hidden;
+  padding: 3rem 0;
+}
+
+.skills-slider-track {
+  display: flex;
+  width: max-content;
+}
+
+.skills-slider-track.right {
+  animation: slideRight 35s linear infinite;
+}
+
+.skills-slider-track.left {
+  animation: slideLeft 35s linear infinite;
+}
+
+.skills-list {
+  display: flex;
+  gap: 1.5rem;
+}
+
+.skill-item {
+  padding: 8px 22px;
+  border-radius: 20px;
+  background: #e8c62e;
+  color: black;
+  font-weight: 500;
+}
+
+@keyframes slideLeft {
+  from { transform: translateX(0%) }
+  to { transform: translateX(-50%) }
+}
+
+@keyframes slideRight {
+  from { transform: translateX(-50%) }
+  to { transform: translateX(0%) }
+}

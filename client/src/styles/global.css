@@ -1,0 +1,11 @@
+:root{
+ --accent:#e8c62e;
+ --bg:#171717;
+ --text:#f6f5f5;
+}
+
+body{
+ background:var(--bg);
+ color:var(--text);
+ font-family:Poppins;
+}
